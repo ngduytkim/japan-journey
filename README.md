@@ -1,7 +1,7 @@
 # Japan - The Culture Inside Ordinary Things
 
-A personal reflection by Kem, Head of UA, on Osaka, Uji, and Kyoto.
+A personal journey through Osaka, Uji, Kyoto, and Ine.
 
-Download `japan-journey.html` and open it in a browser. Photos and video are embedded in the HTML. Google Fonts require an internet connection; system fonts are used as a fallback.
+Read the publication: https://ngduytkim.github.io/japan-journey/
 
-Personal photos and sourced reference images appear within the story. Cultural sources and image credits are linked in the publication.
+The site uses compressed WebP photographs, lazy-loaded images, and MP4 clips loaded near the viewport. All publication media is included in `media/`.
